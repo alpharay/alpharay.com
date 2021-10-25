@@ -24,4 +24,8 @@ security, Simultaneous wireless information and power transfer (SWIPT) and machi
   * International Journals
     - Kwadwo Boateng Ofori-Amanfo, Derek Kwaku Pobi Asiedu, Roger Kwao Ahiadormey, and Kyoung-Jae Lee,[[https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F9584921%3Fdenied%3D&sa=D&sntz=1&usg=AFQjCNFRP-ZRfEGrR0K1vk-H4Kdt9oD8FA]["Multi-hop MIMO relaying based on simultaneous wireless information and power transfer," accepted for publication in IEEE Access, Oct. 2021]] 
 
-
+* CONFERENCES
+  * Domestic Conferences
+    - Solsong Kang, Kwadwo Boateng Ofori-Amanfo, and Kyoung-Jae Lee, "Secrecy capacity of two-hop relay communication systems in Rayleigh and Rician fading channels", in Proc. IEIE Daejeon Symposium 2020, Daejeon, Korea, Dec. 2020
+    - Kwadwo Boateng Ofori-Amanfo and Kyoung-Jae Lee, "Physical layer security of AF relay systems with jamming", in Proc. KIICE Spring Conference 2019, Daejeon, Korea, May 2019  
+    - Kwadwo Boateng Ofori-Amanfo, and Kyoung-Jae Lee, "A study on secrecy capacity in the presence of multiple eavesdropper attacks on wireless channels", in Proc. KICS Winter Conference 2018, Jeongseon, Gangwon, Korea, Jan 2018
