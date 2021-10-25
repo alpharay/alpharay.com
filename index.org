@@ -22,7 +22,8 @@ security, Simultaneous wireless information and power transfer (SWIPT) and machi
 * PUBLICATIONS
   * Local Journals
   * International Journals
-    - Kwadwo Boateng Ofori-Amanfo, Derek Kwaku Pobi Asiedu, Roger Kwao Ahiadormey, and Kyoung-Jae Lee,[[https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F9584921%3Fdenied%3D&sa=D&sntz=1&usg=AFQjCNFRP-ZRfEGrR0K1vk-H4Kdt9oD8FA]["Multi-hop MIMO relaying based on simultaneous wireless information and power transfer," accepted for publication in IEEE Access, Oct. 2021]] 
+    - Kwadwo Boateng Ofori-Amanfo, Derek Kwaku Pobi Asiedu, Roger Kwao Ahiadormey, and Kyoung-Jae Lee, [[https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F9584921%3Fdenied%3D&sa=D&sntz=1&usg=AFQjCNFRP-ZRfEGrR0K1vk-H4Kdt9oD8FA]["Multi-hop MIMO relaying based on simultaneous wireless information and power transfer," accepted for publication in IEEE Access, Oct. 2021]] 
+    - Robert A. Sowah , Kwadwo B. Ofori-Amanfo, Godfrey A. Mills, and Koudjo M. Koumadi, [[https://www.hindawi.com/journals/jcnc/2019/4683982/][Detection and Prevention of Man-in-the-Middle Spoofing Attacks in MANETs Using Predictive Techniques in Artificial Neural Networks (ANN)]]
 
 * CONFERENCES
   * Domestic Conferences
