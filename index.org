@@ -20,5 +20,8 @@ security, Simultaneous wireless information and power transfer (SWIPT) and machi
 * DATASET
 
 * PUBLICATIONS
-  + Local Journals
-  + International Journals
+  * Local Journals
+  * International Journals
+    - Kwadwo Boateng Ofori-Amanfo, Derek Kwaku Pobi Asiedu, Roger Kwao Ahiadormey, and Kyoung-Jae Lee,[[https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F9584921%3Fdenied%3D&sa=D&sntz=1&usg=AFQjCNFRP-ZRfEGrR0K1vk-H4Kdt9oD8FA]["Multi-hop MIMO relaying based on simultaneous wireless information and power transfer," accepted for publication in IEEE Access, Oct. 2021]] 
+
+
