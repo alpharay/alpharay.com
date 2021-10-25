@@ -1,4 +1,4 @@
-#+TITLE: Org Export Dispatch and Readtheorg
+#+TITLE: K.B. Ofori-Amanfo
 #+PURPOSE: Convert Org to HTML and use Readtheorg CSS
 #+AUTHOR:KB
 #+EXPORT_FILE_NAME:/home/nehemiah/Desktop/WORK/PROGRAMMING_WORLD/PROJECTS/MyWebsite/index.html
