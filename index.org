@@ -17,7 +17,6 @@ security, Simultaneous wireless information and power transfer (SWIPT) and machi
     * BSc. Computer Engineering: University of Ghana (UG) - Legon
   + Work Experience/Projects
     * A spatially Enable Web Navigation System for the University of Ghana – Legon Campus
-* DATASET
 
 * PUBLICATIONS
   * International Journals
