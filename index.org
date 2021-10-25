@@ -1,0 +1,24 @@
+#+TITLE: Org Export Dispatch and Readtheorg
+#+PURPOSE: Convert Org to HTML and use Readtheorg CSS
+#+AUTHOR:KB
+#+EXPORT_FILE_NAME:/home/nehemiah/Desktop/WORK/PROGRAMMING_WORLD/PROJECTS/MyWebsite/index.html
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+OPTIONS: num:nil
+
+#+ATTR_HTML: :width 30% :align right
+[[file:images/profile.jpg]]
+* PROFILE
+I am a research student with the Wireless Intelligent Systems Lab. (WiSL) of Hanbat National University. My current research interests focus on physical layer
+security, Simultaneous wireless information and power transfer (SWIPT) and machine learning.
+
+* CV
+  + Education:
+    * MPhil.: University of Ghana (UG) - Legon
+    * BSc.: University of Ghana (UG) - Legon
+  + Work Experience
+
+* DATASET
+
+* PUBLICATIONS
+  + Local Journals
+  + International Journals
