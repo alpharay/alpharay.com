@@ -13,8 +13,8 @@ security, Simultaneous wireless information and power transfer (SWIPT) and machi
 
 * CV
   + Education:
-    * MPhil.: University of Ghana (UG) - Legon
-    * BSc.: University of Ghana (UG) - Legon
+    * MPhil. Computer Engineering: University of Ghana (UG) - Legon
+    * BSc. Computer Engineering: University of Ghana (UG) - Legon
   + Work Experience
 
 * DATASET
