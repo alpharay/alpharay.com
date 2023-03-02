@@ -8,13 +8,14 @@
 #+ATTR_HTML: :width 30% :align right
 [[file:images/profile.jpg]]
 * PROFILE
-I am a research student with the Wireless Intelligent Systems Lab. (WiSL) of Hanbat National University. My current research interests focus on physical layer
-security, Simultaneous wireless information and power transfer (SWIPT) and machine learning.
+I am a currently a postdoctoral researcher with the Wireless Intelligent Systems Lab  (WiSL) of Hanbat National University.
+My present research interests focus mainly on the optimization of algorithms that utilize simultaneous wireless information and power transfer (SWIPT), artificial intelligence (AI)  and machine learning across various wireless networks
 
 * CV
   + Education:
-    * MPhil. Computer Engineering: University of Ghana (UG) - Legon
-    * BSc. Computer Engineering: University of Ghana (UG) - Legon
+    * Ph.D., Electronic Engineering, Hanbat National University,
+    * MPhil., Computer Engineering: University of Ghana (UG) - Legon
+    * BSc., Computer Engineering: University of Ghana (UG) - Legon
   + Work Experience/Projects
     * A spatially Enable Web Navigation System for the University of Ghana – Legon Campus
 
