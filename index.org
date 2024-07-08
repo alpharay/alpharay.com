@@ -27,9 +27,10 @@ My present research interests focus mainly on the optimization of algorithms tha
 
 * CONFERENCES
   * Domestic Conferences
-    - *Kwadwo Boateng Ofori-Amanfo* and Kyoung-Jae Lee, "Investigating a hybrid deep learning driven modeling apprach to relay-based limited feedback system", in Proc. KIEES Summer Conference, Jeju, Korea, Aug. 2022
-    - Samuel Kwamena Menanor, *Kwadwo Boateng Ofori-Amanfo*, and Kyoung-Jae Lee, "Comparison of rate performance for direct link and nondirect link SWIPT based multiple-relay system", in Proc. KIEES Summer Conference, Jeju, Korea, Aug. 2022
-    - *Kwadwo Boateng Ofori-Amanfo*, Derek Kwaku Pobi Asiedu, and Kyoung-Jae Lee, "Optimized energy routing based on simultaneous wireless and information power transfer", in Proc. Joint Conference on Communications and Information (JCCI), Sokcho, Gangwon, Korea, Apr. 2022
-    - Solsong Kang, *Kwadwo Boateng Ofori-Amanfo*, and Kyoung-Jae Lee, "Secrecy capacity of two-hop relay communication systems in Rayleigh and Rician fading channels", in Proc. IEIE Daejeon Symposium 2020, Daejeon, Korea, Dec. 2020
-    - *Kwadwo Boateng Ofori-Amanfo* and Kyoung-Jae Lee, "Physical layer security of AF relay systems with jamming", in Proc. KIICE Spring Conference 2019, Daejeon, Korea, May 2019  
-    - *Kwadwo Boateng Ofori-Amanfo*, and Kyoung-Jae Lee, "A study on secrecy capacity in the presence of multiple eavesdropper attacks on wireless channels", in Proc. KICS Winter Conference 2018, Jeongseon, Gangwon, Korea, Jan 2018
+    - Derek Kwaku Pobi Asiedu, *Kwadwo Boateng Ofori-Amanfo*, Kwabena Ebo Bennin, Mustapha Benjillali, Kyoung-Jae Lee, Dennis Agyemanh Nana Gookyi, Samir Saoudi, "Precision Agriculture Deep Neural Network Driven Multi-hop Plant Image Noisy Data Transmission and Plant Disease Detection", in *Proc. IEEE International Conference on Signal, Image, Video and Communications (ISIVC)*, Marrakesh, Morocco, May 2024. 
+    - *Kwadwo Boateng Ofori-Amanfo* and Kyoung-Jae Lee, "Investigating a hybrid deep learning driven modeling apprach to relay-based limited feedback system", in *Proc. KIEES Summer Conference*, Jeju, Korea, Aug. 2022
+    - Samuel Kwamena Menanor, *Kwadwo Boateng Ofori-Amanfo*, and Kyoung-Jae Lee, "Comparison of rate performance for direct link and nondirect link SWIPT based multiple-relay system", in *Proc. KIEES Summer Conference*, Jeju, Korea, Aug. 2022
+    - *Kwadwo Boateng Ofori-Amanfo*, Derek Kwaku Pobi Asiedu, and Kyoung-Jae Lee, "Optimized energy routing based on simultaneous wireless and information power transfer", in *Proc. Joint Conference on Communications and Information (JCCI)*, Sokcho, Gangwon, Korea, Apr. 2022
+    - Solsong Kang, *Kwadwo Boateng Ofori-Amanfo*, and Kyoung-Jae Lee, "Secrecy capacity of two-hop relay communication systems in Rayleigh and Rician fading channels", in *Proc. IEIE Daejeon Symposium 2020*, Daejeon, Korea, Dec. 2020
+    - *Kwadwo Boateng Ofori-Amanfo* and Kyoung-Jae Lee, "Physical layer security of AF relay systems with jamming", in *Proc. KIICE Spring Conference 2019*, Daejeon, Korea, May 2019  
+    - *Kwadwo Boateng Ofori-Amanfo*, and Kyoung-Jae Lee, "A study on secrecy capacity in the presence of multiple eavesdropper attacks on wireless channels", in *Proc. KICS Winter Conference 2018*, Jeongseon, Gangwon, Korea, Jan 2018
