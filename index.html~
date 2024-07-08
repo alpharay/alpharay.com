@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2023-03-02 목 21:09 -->
+<!-- 2024-01-15 Mon 01:03 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>K.B. Ofori-Amanfo</title>
@@ -23,21 +23,21 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#orgc629a74">PROFILE</a></li>
-<li><a href="#org791b182">CV</a></li>
-<li><a href="#orgf2e9fc4">PUBLICATIONS</a></li>
-<li><a href="#org930172b">CONFERENCES</a></li>
+<li><a href="#org9dedb0f">PROFILE</a></li>
+<li><a href="#org515b2c2">CV</a></li>
+<li><a href="#org3762b26">PUBLICATIONS</a></li>
+<li><a href="#org2cca4ed">CONFERENCES</a></li>
 </ul>
 </div>
 </div>
 
-<div id="org0b95306" class="figure">
+<div id="orgac27241" class="figure">
 <p><img src="images/profile.jpg" alt="profile.jpg" width="30%" align="right" />
 </p>
 </div>
-<div id="outline-container-orgc629a74" class="outline-2">
-<h2 id="orgc629a74">PROFILE</h2>
-<div class="outline-text-2" id="text-orgc629a74">
+<div id="outline-container-org9dedb0f" class="outline-2">
+<h2 id="org9dedb0f">PROFILE</h2>
+<div class="outline-text-2" id="text-org9dedb0f">
 <p>
 I am a currently a postdoctoral researcher with the Wireless Intelligent Systems Lab  (WiSL) of Hanbat National University.
 My present research interests focus mainly on the optimization of algorithms that utilize simultaneous wireless information and power transfer (SWIPT), artificial intelligence (AI)  and machine learning across various wireless networks
@@ -45,9 +45,9 @@ My present research interests focus mainly on the optimization of algorithms tha
 </div>
 </div>
 
-<div id="outline-container-org791b182" class="outline-2">
-<h2 id="org791b182">CV</h2>
-<div class="outline-text-2" id="text-org791b182">
+<div id="outline-container-org515b2c2" class="outline-2">
+<h2 id="org515b2c2">CV</h2>
+<div class="outline-text-2" id="text-org515b2c2">
 <ul class="org-ul">
 <li>Education:
 <ul class="org-ul">
@@ -63,9 +63,9 @@ My present research interests focus mainly on the optimization of algorithms tha
 </div>
 </div>
 
-<div id="outline-container-orgf2e9fc4" class="outline-2">
-<h2 id="orgf2e9fc4">PUBLICATIONS</h2>
-<div class="outline-text-2" id="text-orgf2e9fc4">
+<div id="outline-container-org3762b26" class="outline-2">
+<h2 id="org3762b26">PUBLICATIONS</h2>
+<div class="outline-text-2" id="text-org3762b26">
 <ul class="org-ul">
 <li>International Journals
 <ul class="org-ul">
@@ -77,12 +77,15 @@ My present research interests focus mainly on the optimization of algorithms tha
 </div>
 </div>
 
-<div id="outline-container-org930172b" class="outline-2">
-<h2 id="org930172b">CONFERENCES</h2>
-<div class="outline-text-2" id="text-org930172b">
+<div id="outline-container-org2cca4ed" class="outline-2">
+<h2 id="org2cca4ed">CONFERENCES</h2>
+<div class="outline-text-2" id="text-org2cca4ed">
 <ul class="org-ul">
 <li>Domestic Conferences
 <ul class="org-ul">
+<li><b>Kwadwo Boateng Ofori-Amanfo</b> and Kyoung-Jae Lee, "Investigating a hybrid deep learning driven modeling apprach to relay-based limited feedback system", in Proc. KIEES Summer Conference, Jeju, Korea, Aug. 2022</li>
+<li>Samuel Kwamena Menanor, <b>Kwadwo Boateng Ofori-Amanfo</b>, and Kyoung-Jae Lee, "Comparison of rate performance for direct link and nondirect link SWIPT based multiple-relay system", in Proc. KIEES Summer Conference, Jeju, Korea, Aug. 2022</li>
+<li><b>Kwadwo Boateng Ofori-Amanfo</b>, Derek Kwaku Pobi Asiedu, and Kyoung-Jae Lee, "Optimized energy routing based on simultaneous wireless and information power transfer", in Proc. Joint Conference on Communications and Information (JCCI), Sokcho, Gangwon, Korea, Apr. 2022</li>
 <li>Solsong Kang, <b>Kwadwo Boateng Ofori-Amanfo</b>, and Kyoung-Jae Lee, "Secrecy capacity of two-hop relay communication systems in Rayleigh and Rician fading channels", in Proc. IEIE Daejeon Symposium 2020, Daejeon, Korea, Dec. 2020</li>
 <li><b>Kwadwo Boateng Ofori-Amanfo</b> and Kyoung-Jae Lee, "Physical layer security of AF relay systems with jamming", in Proc. KIICE Spring Conference 2019, Daejeon, Korea, May 2019</li>
 <li><b>Kwadwo Boateng Ofori-Amanfo</b>, and Kyoung-Jae Lee, "A study on secrecy capacity in the presence of multiple eavesdropper attacks on wireless channels", in Proc. KICS Winter Conference 2018, Jeongseon, Gangwon, Korea, Jan 2018</li>
@@ -93,7 +96,7 @@ My present research interests focus mainly on the optimization of algorithms tha
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: KB</p>
-<p class="date">Created: 2023-03-02 목 21:09</p>
+<p class="date">Created: 2024-01-15 Mon 01:03</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
