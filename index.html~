@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2024-07-10 Wed 15:17 -->
+<!-- 2024-07-10 Wed 15:32 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>K.B. Ofori-Amanfo</title>
@@ -23,21 +23,21 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#orgb714a6e">PROFILE</a></li>
-<li><a href="#orge3eefeb">CV</a></li>
-<li><a href="#org865c58d">PUBLICATIONS</a></li>
-<li><a href="#orgd73e96e">CONFERENCES</a></li>
+<li><a href="#org103fb09">PROFILE</a></li>
+<li><a href="#orgd03a2d3">CV</a></li>
+<li><a href="#org45f0498">PUBLICATIONS</a></li>
+<li><a href="#org3fc42a1">CONFERENCES</a></li>
 </ul>
 </div>
 </div>
 
-<div id="org56fa16f" class="figure">
+<div id="org6d49f37" class="figure">
 <p><img src="images/profile.jpg" alt="profile.jpg" width="30%" align="right" />
 </p>
 </div>
-<div id="outline-container-orgb714a6e" class="outline-2">
-<h2 id="orgb714a6e">PROFILE</h2>
-<div class="outline-text-2" id="text-orgb714a6e">
+<div id="outline-container-org103fb09" class="outline-2">
+<h2 id="org103fb09">PROFILE</h2>
+<div class="outline-text-2" id="text-org103fb09">
 <p>
 I was previously with the Wireless Intelligent Systems Lab. (WiSL) of Hanbat National University. My present research interests focus mainly on the optimization of algorithms which utilize simultaneous wireless information and power transfer (SWIPT), artificial intelligence (AI) and machine learning across various wireless networks. Previously, I have also investigated the use of AI and machine learning in signal processing and network security vulnerability detection i.e., the detection of man-in-the-middle attacks on mobile ad-hoc networks (MANETs).
 On the other end of the spectrum, I have recently started researching and working with blockchain infrastructure to actively develop smart contracts in Solidity, Python and JavaScript. My predominant interests range from digital finance (Defi) technologies and the frameworks that underline such systems to the general crypto-economy ecosystem.
@@ -46,9 +46,9 @@ On the other end of the spectrum, I have recently started researching and workin
 </div>
 
 
-<div id="outline-container-orge3eefeb" class="outline-2">
-<h2 id="orge3eefeb">CV</h2>
-<div class="outline-text-2" id="text-orge3eefeb">
+<div id="outline-container-orgd03a2d3" class="outline-2">
+<h2 id="orgd03a2d3">CV</h2>
+<div class="outline-text-2" id="text-orgd03a2d3">
 <ul class="org-ul">
 <li>Education:
 <ul class="org-ul">
@@ -64,23 +64,24 @@ On the other end of the spectrum, I have recently started researching and workin
 </div>
 </div>
 
-<div id="outline-container-org865c58d" class="outline-2">
-<h2 id="org865c58d">PUBLICATIONS</h2>
-<div class="outline-text-2" id="text-org865c58d">
+<div id="outline-container-org45f0498" class="outline-2">
+<h2 id="org45f0498">PUBLICATIONS</h2>
+<div class="outline-text-2" id="text-org45f0498">
 <ul class="org-ul">
 <li>International Journals
 <ul class="org-ul">
 <li><b>Kwadwo Boateng Ofori-Amanfo</b>, Derek Kwaku Pobi Asiedu, Roger Kwao Ahiadormey, and Kyoung-Jae Lee, <a href="https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F9584921%3Fdenied%3D&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFRP-ZRfEGrR0K1vk-H4Kdt9oD8FA">"Multi-hop MIMO relaying based on simultaneous wireless information and power transfer," accepted for publication in IEEE Access, Oct. 2021</a></li>
 <li>Robert A. Sowah , <b>Kwadwo B. Ofori-Amanfo</b>, Godfrey A. Mills, and Koudjo M. Koumadi, <a href="https://www.hindawi.com/journals/jcnc/2019/4683982/">Detection and Prevention of Man-in-the-Middle Spoofing Attacks in MANETs Using Predictive Techniques in Artificial Neural Networks (ANN)</a></li>
+<li>Boahen, Samuel, <b>Kwadwo Boateng Ofori-Amanfo</b>, Kofi Owura Amoabeng, Godwin Ayetor, George Yaw Obeng, Richard Opoku, and Dennis Edem Dzebre. <a href="https://link.springer.com/article/10.1186/s44147-023-00216-6">"Fault detection model for a variable speed heat pump.</a>" Journal of Engineering and Applied Science 70, no. 1 (2023): 48.</li>
 </ul></li>
 <li>Local Journals</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orgd73e96e" class="outline-2">
-<h2 id="orgd73e96e">CONFERENCES</h2>
-<div class="outline-text-2" id="text-orgd73e96e">
+<div id="outline-container-org3fc42a1" class="outline-2">
+<h2 id="org3fc42a1">CONFERENCES</h2>
+<div class="outline-text-2" id="text-org3fc42a1">
 <ul class="org-ul">
 <li>International Conferences
 <ul class="org-ul">
@@ -101,7 +102,7 @@ On the other end of the spectrum, I have recently started researching and workin
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: KB</p>
-<p class="date">Created: 2024-07-10 Wed 15:17</p>
+<p class="date">Created: 2024-07-10 Wed 15:32</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

@@ -13,24 +13,24 @@ On the other end of the spectrum, I have recently started researching and workin
 
 
 * CV
-  + Education:
+  + _Education_:
     * Ph.D., Electronic Engineering, Hanbat National University,
     * MPhil., Computer Engineering: University of Ghana (UG) - Legon
     * BSc., Computer Engineering: University of Ghana (UG) - Legon
-  + Work Experience/Projects
+  + _Work Experience/Projects_:
     * A spatially Enable Web Navigation System for the University of Ghana – Legon Campus
 
 * PUBLICATIONS
-  * International Journals
+  * _International Journals_:
     - *Kwadwo Boateng Ofori-Amanfo*, Derek Kwaku Pobi Asiedu, Roger Kwao Ahiadormey, and Kyoung-Jae Lee, [[https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F9584921%3Fdenied%3D&sa=D&sntz=1&usg=AFQjCNFRP-ZRfEGrR0K1vk-H4Kdt9oD8FA]["Multi-hop MIMO relaying based on simultaneous wireless information and power transfer," accepted for publication in IEEE Access, Oct. 2021]] 
     - Robert A. Sowah , *Kwadwo B. Ofori-Amanfo*, Godfrey A. Mills, and Koudjo M. Koumadi, [[https://www.hindawi.com/journals/jcnc/2019/4683982/][Detection and Prevention of Man-in-the-Middle Spoofing Attacks in MANETs Using Predictive Techniques in Artificial Neural Networks (ANN)]]
     - Boahen, Samuel, *Kwadwo Boateng Ofori-Amanfo*, Kofi Owura Amoabeng, Godwin Ayetor, George Yaw Obeng, Richard Opoku, and Dennis Edem Dzebre. [[https://link.springer.com/article/10.1186/s44147-023-00216-6]["Fault detection model for a variable speed heat pump.]]" Journal of Engineering and Applied Science 70, no. 1 (2023): 48.
-  * Local Journals
+  * _Local Journals_:
 
 * CONFERENCES
-  * International Conferences
+  * _International Conferences_:
     - Derek Kwaku Pobi Asiedu, *Kwadwo Boateng Ofori-Amanfo*, Kwabena Ebo Bennin, Mustapha Benjillali, Kyoung-Jae Lee, Dennis Agyemanh Nana Gookyi, Samir Saoudi, "Precision Agriculture Deep Neural Network Driven Multi-hop Plant Image Noisy Data Transmission and Plant Disease Detection", in *Proc. IEEE International Conference on Signal, Image, Video and Communications (ISIVC)*, Marrakesh, Morocco, May 2024. 
-  * Domestic Conferences
+  * _Domestic Conferences_:
     - *Kwadwo Boateng Ofori-Amanfo* and Kyoung-Jae Lee, "Investigating a hybrid deep learning driven modeling apprach to relay-based limited feedback system", in *Proc. KIEES Summer Conference*, Jeju, Korea, Aug. 2022
     - Samuel Kwamena Menanor, *Kwadwo Boateng Ofori-Amanfo*, and Kyoung-Jae Lee, "Comparison of rate performance for direct link and nondirect link SWIPT based multiple-relay system", in *Proc. KIEES Summer Conference*, Jeju, Korea, Aug. 2022
     - *Kwadwo Boateng Ofori-Amanfo*, Derek Kwaku Pobi Asiedu, and Kyoung-Jae Lee, "Optimized energy routing based on simultaneous wireless and information power transfer", in *Proc. Joint Conference on Communications and Information (JCCI)*, Sokcho, Gangwon, Korea, Apr. 2022
