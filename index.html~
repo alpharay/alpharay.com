@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2024-07-10 Wed 15:54 -->
+<!-- 2024-07-10 Wed 15:56 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>K.B. Ofori-Amanfo</title>
@@ -23,21 +23,21 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#org4a32c4c">PROFILE</a></li>
-<li><a href="#orgea27292">CV</a></li>
-<li><a href="#org9c925e6">PUBLICATIONS</a></li>
-<li><a href="#org4e0d993">CONFERENCES</a></li>
+<li><a href="#orgf9257ef">PROFILE</a></li>
+<li><a href="#org896ab42">CV</a></li>
+<li><a href="#orgdf120c3">PUBLICATIONS</a></li>
+<li><a href="#org7aeac64">CONFERENCES</a></li>
 </ul>
 </div>
 </div>
 
-<div id="orgeede2a0" class="figure">
+<div id="org4a705cd" class="figure">
 <p><img src="images/profile.jpg" alt="profile.jpg" width="30%" align="right" />
 </p>
 </div>
-<div id="outline-container-org4a32c4c" class="outline-2">
-<h2 id="org4a32c4c">PROFILE</h2>
-<div class="outline-text-2" id="text-org4a32c4c">
+<div id="outline-container-orgf9257ef" class="outline-2">
+<h2 id="orgf9257ef">PROFILE</h2>
+<div class="outline-text-2" id="text-orgf9257ef">
 <p>
 I was previously with the Wireless Intelligent Systems Lab. (WiSL) of Hanbat National University. My present research interests focus mainly on the optimization of algorithms which utilize simultaneous wireless information and power transfer (SWIPT), artificial intelligence (AI) and machine learning across various wireless networks. Previously, I have also investigated the use of AI and machine learning in signal processing and network security vulnerability detection i.e., the detection of man-in-the-middle attacks on mobile ad-hoc networks (MANETs).
 On the other end of the spectrum, I have recently started researching and working with blockchain infrastructure to actively develop smart contracts in Solidity, Python and JavaScript. My predominant interests range from digital finance (Defi) technologies and the frameworks that underline such systems to the general crypto-economy ecosystem.
@@ -46,9 +46,9 @@ On the other end of the spectrum, I have recently started researching and workin
 </div>
 
 
-<div id="outline-container-orgea27292" class="outline-2">
-<h2 id="orgea27292">CV</h2>
-<div class="outline-text-2" id="text-orgea27292">
+<div id="outline-container-org896ab42" class="outline-2">
+<h2 id="org896ab42">CV</h2>
+<div class="outline-text-2" id="text-org896ab42">
 <ul class="org-ul">
 <li><span class="underline">Education</span>:
 <ul class="org-ul">
@@ -62,7 +62,7 @@ On the other end of the spectrum, I have recently started researching and workin
 <li>[ <i>August 2014 – July 2015</i> ] Teaching Assistant, University of Ghana, School of Engineering Sciences, Computer Engineering Department, LG 77, Legon-Accra.</li>
 <li>[ <i>August 2011 – July 2012</i> ] Teaching Assistant, University of Ghana, School of Engineering Sciences, Computer Engineering Department, LG 77, Legon-Accra.</li>
 <li>[ <i>August 2010 – July 2011</i> ] National Service Personnel, University of Ghana, School of Engineering Sciences, Computer Engineering Department, LG 77, Legon-Accra.</li>
-<li>[ <i>July 2010 - October 2010</i> ] Software Developer, Softcom Ltd, 2nd Floor, Special Plaza Bldg., East Legon, Accra-Ghana.</li>
+<li>[ <i>July 2010 - October 2010</i> ] Software Developer, Softcom Ltd, 2nd Floor, East Legon, Accra-Ghana.</li>
 </ul></li>
 <li><span class="underline">Research Experience</span>:
 <ul class="org-ul">
@@ -76,9 +76,9 @@ rea (34158).
 </div>
 
 
-<div id="outline-container-org9c925e6" class="outline-2">
-<h2 id="org9c925e6">PUBLICATIONS</h2>
-<div class="outline-text-2" id="text-org9c925e6">
+<div id="outline-container-orgdf120c3" class="outline-2">
+<h2 id="orgdf120c3">PUBLICATIONS</h2>
+<div class="outline-text-2" id="text-orgdf120c3">
 <ul class="org-ul">
 <li><span class="underline">International Journals</span>:
 <ul class="org-ul">
@@ -91,9 +91,9 @@ rea (34158).
 </div>
 </div>
 
-<div id="outline-container-org4e0d993" class="outline-2">
-<h2 id="org4e0d993">CONFERENCES</h2>
-<div class="outline-text-2" id="text-org4e0d993">
+<div id="outline-container-org7aeac64" class="outline-2">
+<h2 id="org7aeac64">CONFERENCES</h2>
+<div class="outline-text-2" id="text-org7aeac64">
 <ul class="org-ul">
 <li><span class="underline">International Conferences</span>:
 <ul class="org-ul">
@@ -114,7 +114,7 @@ rea (34158).
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: KB</p>
-<p class="date">Created: 2024-07-10 Wed 15:54</p>
+<p class="date">Created: 2024-07-10 Wed 15:56</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
